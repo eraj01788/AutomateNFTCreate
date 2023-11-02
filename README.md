@@ -1,7 +1,7 @@
 # AutomateNFTCreate
 
 Clone this repository.
-run npm install if needed
+run npm install if needed.
 open src folder.
 put your image inside images folder.
 open terminal inside src folder and run this commande
